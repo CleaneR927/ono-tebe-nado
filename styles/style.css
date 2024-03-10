@@ -62,7 +62,7 @@ address {
 
 /* Блока cover. Начало */
 
-cover {
+.cover {
   display: flex;
   flex-direction: column;
   min-height: 757px;
@@ -185,7 +185,7 @@ cover {
 
 /*Блок lots. Начало*/
 
-lots {
+.lots {
   display: flex;
   flex-direction: column;
   min-height: 692px;
@@ -301,7 +301,7 @@ lots {
 
 /*Блок about. Начало*/
 
-about {
+.about {
   display: grid;
   grid-template-columns: 334px 1fr;
   min-height: 595px;
