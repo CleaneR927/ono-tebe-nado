@@ -100,7 +100,7 @@ address {
   grid-template-rows: 120px;
 }
 
-.aligned-text p {
+.aligned-text span {
   padding-left: 40px;
 }
 
@@ -113,7 +113,7 @@ address {
   
 }
 
-.aligned-text_center p {
+.aligned-text_center span {
   padding-left: 39px;
 }
 
