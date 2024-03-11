@@ -15,7 +15,6 @@ header {
   list-style-type: circle;
   column-gap: 34px;
   padding-left: 26px;
-  max-width: 420px;
 }
 
 .header__links-list-item_no-bullit {
@@ -82,7 +81,7 @@ header {
 /* Стили заглавия секции */
 
 .cover__title {
-  padding: 166px 50px 73px;
+  padding: 165px 50px 73px;
   font-size: 100px;
   color: #fff;
   line-height: 117px;
