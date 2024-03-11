@@ -37,16 +37,21 @@ header {
 }
 
 .header__logo-image {
- width: 137px;
+  width: 137px;
 }
 
 /* Личные данные */
 
-.header__links-list-item-double {
+.header-address {
+  display: flex;
+  justify-content: end;
+  padding-right: 62px;
+}
+
+.header__links-list-item {
   display: flex;
   flex-flow: row wrap;
   list-style-type: none;
-  padding: 0 0 0 192px;
   font-style: normal;
   line-height: 25px;
 }
@@ -187,7 +192,6 @@ header {
   flex-wrap: wrap;
   justify-content: space-between;
   align-content: center;
-  min-height: 563px;
   gap: 25px;
   
 }
